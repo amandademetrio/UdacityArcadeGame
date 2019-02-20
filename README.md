@@ -6,11 +6,15 @@ This is a basic javscript game.
 
 ## How to Play
 
-Open the page on your browser and move the little girl around with you keyboard keys for up, down, left and right. Your character starts on the grass (green part of the screen).
+* Open the *index.html* file on your browser and you will see a gameboard with three layers: one with grass, one with stones and one with water. 
 
-Your goal is to move the little girl all the way up to the water without colliding with the bugs moving above you. The bugs move in random speeds and the speed change for each loop they do around the board.
+* At the bottom of the board, you will see a little girl with a cat hat --that will be your player during this game.
 
-Everytime, the little girl collides with an enemy, the game starts over. If you safely reach the water, you'll get a pop up message congratulating you and asking if you would like to play again.
+* Your goal is to move the little girl all the way up to the water without colliding with the bugs moving above you. You can move her around with you keyboard keys for up, down, left and right.
+
+* The bugs on the stone area move in random speeds and the speed change for each loop they do around the board. You should move quickly to avoid collision with them. Everytime the little girl collides with an enemy, the game starts over. 
+
+* You win the game if you safely reach the water (without colliding with bugs). In that scenario, you'll get a pop up message congratulating you and asking if you would like to play again.
 
 ## Context
 
@@ -18,4 +22,4 @@ The initial code for this game and the image resources were provided by Udacity 
 
 ## Credits
 
-Blogger matthewcranford.com was very helpful when I was stuck. Thank you!
+Blogger [matthewcranford.com](http://matthewcranford.com) was very helpful when I was stuck. Thank you!
