@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#victory-modal {
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 140px;
+    padding: 1%;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 25px;
+    position: absolute;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
