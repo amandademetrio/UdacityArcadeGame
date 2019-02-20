@@ -15,3 +15,7 @@ Everytime, the little girl collides with an enemy, the game starts over. If you 
 ## Context
 
 The initial code for this game and the image resources were provided by Udacity for their front end nanodegree students. Starting with their code, I've developed the game to its current position.
+
+## Credits
+
+Blogger matthewcranford.com was very helpful when I was stuck. Thank you!
