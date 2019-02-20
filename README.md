@@ -1,20 +1,17 @@
 # Classic Arcade Game Clone Project
 
-## Table of Contents
+## What is this
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+This is a basic javscript game. 
 
-## Instructions
+## How to Play
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+Open the page on your browser and move the little girl around with you keyboard keys for up, down, left and right. Your character starts on the grass (green part of the screen).
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+Your goal is to move the little girl all the way up to the water without colliding with the bugs moving above you. The bugs move in random speeds and the speed change for each loop they do around the board.
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+Everytime, the little girl collides with an enemy, the game starts over. If you safely reach the water, you'll get a pop up message congratulating you and asking if you would like to play again.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Context
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+The initial code for this game and the image resources were provided by Udacity for their front end nanodegree students. Starting with their code, I've developed the game to its current position.

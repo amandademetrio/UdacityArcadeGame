@@ -2,15 +2,19 @@ body {
     text-align: center;
 }
 
+.modalbox {
+    width: 100%;
+    position: absolute;
+}
+
 #victory-modal {
     width: 200px;
-    margin-top: 150px;
-    margin-left: 140px;
+    margin: 100px auto;
     padding: 1%;
     background-color: white;
     border: 2px solid gray;
     border-radius: 25px;
-    position: absolute;
+    position: relative;
     text-align: center;
 }
 
